@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shubham Sharma"
 description              : &description "personal description"
-url                      : https://ssharma250894.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://ssharma250894.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ssharma250894/ssharma250894.github.io"
 
