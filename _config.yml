@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shubh's Homepage"
 title_separator          : "-"
 name                     : &name "Shubham Sharma"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shubham Sharma"
-  pronouns         : "He/Him"  
+  pronouns         : #"He/Him"  
   bio              : "Cybersecurity Enthusiast"
   location         : "mississauga, ON"
   employer         : "Concordia University"
